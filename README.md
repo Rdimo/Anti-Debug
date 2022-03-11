@@ -11,17 +11,17 @@ Love ❌ code ✅
 ---
 
 ### 🎉・What it checks for
-・Kills tools that can be used to **debug your file**
+**・** Kills tools that can be used to **debug your file**
 
-・Exits if ran in vm (supports different vms like **oracle, sandbox, windows sandbox etc...**)
+**・** Exits if ran in vm (supports different vms like **oracle, sandbox, windows sandbox etc...**)
 
-・Checks if the **Username, Pc name, hwid (uuid), ip and gpu** are any known vm's like virustotal
+**・** Checks if the **Username, Pc name, hwid (uuid), ip and gpu** are any known vm's like virustotal
 
-・Checks the **registery**
+**・** Checks the **registery**
 
-・Checks for **vm dll's and known vm folders**
+**・** Checks for **vm dll's and known vm folders**
 
-・Checks the specs **(ram, hardrive space and cpu count)** to see if they are suspicious which could give away the vm
+**・** Checks the specs **(ram, hardrive space and cpu count)** to see if they are suspicious which could give away the vm
 
 ---
 
