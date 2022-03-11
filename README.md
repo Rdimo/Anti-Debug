@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/languages/top/Rdimo/Anti-Debug?style=flat-square" </a>
   <img src="https://img.shields.io/github/last-commit/Rdimo/Anti-Debug?style=flat-square" </a>
-  <img src="https://img.shields.io/github/stars/Rdimo/Anti-Debug?color=?color=%2300ff99&label=Stars&style=flat-square" </a>
+  <img src="https://img.shields.io/github/stars/Rdimo/Anti-Debug?color=%2300ff99&label=Stars&style=flat-square" </a>
   <img src="https://img.shields.io/github/forks/Rdimo/Anti-Debug?color=%2300ff99&label=Forks&style=flat-square" </a>
 </p>
 
