@@ -31,7 +31,7 @@ Example of how you can use [Anti-Debug](https://github.com/Rdimo/Anti-Debug#code
 import os
 from anti_debug import AntiDebug
 
-if AntiVm().inVM:
+if AntiDebug().inVM:
     os._exit(0)
 else:
     #we are not in a vm, run your malicious code or whatever
