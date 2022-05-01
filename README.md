@@ -6,11 +6,13 @@
 </p>
 
 #### Anti-Debug was made by
+
 Love ❌ code ✅
 
 ---
 
 ### 🎉・What it checks for
+
 **・** Kills tools that can be used to **debug your file**
 
 **・** Exits if ran in vm (supports different vms like **oracle, sandbox, windows sandbox etc...**)
@@ -26,12 +28,14 @@ Love ❌ code ✅
 ---
 
 ### 🎈・Code example
+
 Example of how you can use [Anti-Debug](https://github.com/Rdimo/Anti-Debug#code-example)
+
 ```py
 import os
 from anti_debug import AntiDebug
 
-if AntiVm().inVM:
+if AntiDebug().inVM:
     os._exit(0)
 else:
     #we are not in a vm, run your malicious code or whatever
