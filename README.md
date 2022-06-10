@@ -38,5 +38,5 @@ from anti_debug import AntiDebug
 if AntiDebug().inVM:
     os._exit(0)
 else:
-    #we are not in a vm, run your malicious code or whatever
+    #we are not in a vm
 ```
